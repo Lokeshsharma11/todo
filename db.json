@@ -88,5 +88,116 @@
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         }
+    ],
+    "submission": [
+        {
+            "submissionid": "01",
+            "userid": "11",
+            "pmid": "11",
+            "qidorsqid": "02",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "02",
+            "userid": "12",
+            "pmid": "12",
+            "qidorsqid": "03",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "03",
+            "userid": "13",
+            "pmid": "13",
+            "qidorsqid": "03",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "04",
+            "userid": "14",
+            "pmid": "14",
+            "qidorsqid": "04",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "05",
+            "userid": "15",
+            "pmid": "15",
+            "qidorsqid": "05",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },        {
+            "submissionid": "06",
+            "userid": "16",
+            "pmid": "16",
+            "qidorsqid": "06",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "07",
+            "userid": "17",
+            "pmid": "17",
+            "qidorsqid": "07",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "08",
+            "userid": "18",
+            "pmid": "18",
+            "qidorsqid": "08",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "09",
+            "userid": "19",
+            "pmid": "19",
+            "qidorsqid": "09",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "10",
+            "userid": "10",
+            "pmid": "10",
+            "qidorsqid": "10",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        },
+        {
+            "submissionid": "11",
+            "userid": "11",
+            "pmid": "11",
+            "qidorsqid": "11",
+            "original": "notes",
+            "changes": "finished",
+            "timestamp": "2022-01-19 03:14:07"
+
+        }
     ]
 }
