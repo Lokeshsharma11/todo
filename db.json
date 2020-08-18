@@ -1,31 +1,27 @@
 {
     "reading": [
         {
-            "readingid": "01",
-            "userid": "01",
+            "userid": "Bi-Ye Zhou",
             "pmid": "31859919",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "02",
-            "userid": "02",
+            "userid": "Jing Li",
             "pmid": "32132346",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "03",
-            "userid": "03",
+            "userid": "Ming-Gao Li",
             "pmid": "32384427",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "04",
             "userid": "04",
             "pmid": "32294740",
             "notes": "notes",
@@ -33,39 +29,35 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "05",
-            "userid": "05",
+            "userid": "Hai-Wen Sun",
             "pmid": "31826279",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "06",
-            "userid": "06",
+            "userid": "Jia-Xing Zhou",
             "pmid": "31834639",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "07",
-            "userid": "07",
+            "userid": "Lei Han",
             "pmid": "32118714",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "08",
-            "userid": "08",
+            "userid": "Alan Garcia",
             "pmid": "32151750",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "09",
+            "readingid": "Manlio F Marquez",
             "userid": "09",
             "pmid": "32209833",
             "notes": "notes",
@@ -73,79 +65,70 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "10",
-            "userid": "10",
+            "userid": "Emilse F Fierro",
             "pmid": "31821912",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "11",
-            "userid": "11",
+            "userid": "Jessica J Baez",
             "pmid": "31834639",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
-        },        {
-            "readingid": "12",
-            "userid": "12",
+        },
+        {
+            "userid": "Leyla P Rockbrand",
             "pmid": "32118714",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "13",
-            "userid": "13",
+            "userid": "Jorge Gomez-Flores",
             "pmid": "32151750",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "14",
-            "userid": "14",
+            "userid": "Chang-Pei Xiang",
             "pmid": "32209833",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "15",
-            "userid": "15",
+            "userid": "Rui Zhou",
             "pmid": "31821912",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "16",
-            "userid": "16",
+            "userid": "Yi Zhang",
             "pmid": "31859919",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "17",
-            "userid": "17",
+            "userid": "Jing-Jing Zhang",
             "pmid": "32132346",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "18",
-            "userid": "18",
+            "userid": "Hong-Jun Yang",
             "pmid": "32384427",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "readingid": "19",
-            "userid": "19",
+            "userid": "Alan Garcia",
             "pmid": "32294740",
             "notes": "notes",
             "finished": "finished",
@@ -154,8 +137,7 @@
     ],
     "submission": [
         {
-            "submissionid": "01",
-            "userid": "11",
+            "userid": "Bi-Ye Zhou",
             "pmid": "31826279",
             "qidorsqid": "02",
             "original": "notes",
@@ -164,8 +146,7 @@
 
         },
         {
-            "submissionid": "02",
-            "userid": "12",
+            "userid": "Jing Li",
             "pmid": "31834639",
             "qidorsqid": "03",
             "original": "notes",
@@ -174,8 +155,7 @@
 
         },
         {
-            "submissionid": "03",
-            "userid": "13",
+            "userid": "Ming-Gao Li",
             "pmid": "32118714",
             "qidorsqid": "03",
             "original": "notes",
@@ -184,27 +164,24 @@
 
         },
         {
-            "submissionid": "04",
-            "userid": "14",
+            "userid": "Hai-Wen Sun",
             "pmid": "32151750",
             "qidorsqid": "04",
             "original": "notes",
             "changes": "No changes",
             "timestamp": "2022-01-19 03:14:07"
-
         },
         {
-            "submissionid": "05",
-            "userid": "15",
+            "userid": "Jia-Xing Zhou",
             "pmid": "32209833",
             "qidorsqid": "05",
             "original": "notes",
             "changes": "No changes",
             "timestamp": "2022-01-19 03:14:07"
 
-        },        {
-            "submissionid": "06",
-            "userid": "16",
+        },
+        {
+            "userid": "Lei Han",
             "pmid": "31821912",
             "qidorsqid": "06",
             "original": "notes",
@@ -213,8 +190,7 @@
 
         },
         {
-            "submissionid": "07",
-            "userid": "17",
+            "userid": "Alan Garcia",
             "pmid": "31859919",
             "qidorsqid": "07",
             "original": "notes",
@@ -223,8 +199,7 @@
 
         },
         {
-            "submissionid": "08",
-            "userid": "18",
+            "userid": "Manlio F Marquez",
             "pmid": "32132346",
             "qidorsqid": "08",
             "original": "notes",
@@ -233,8 +208,7 @@
 
         },
         {
-            "submissionid": "09",
-            "userid": "19",
+            "userid": "Emilse F Fierro",
             "pmid": "32384427",
             "qidorsqid": "09",
             "original": "notes",
@@ -243,8 +217,7 @@
 
         },
         {
-            "submissionid": "10",
-            "userid": "10",
+            "userid": "Jessica J Baez",
             "pmid": "32294740",
             "qidorsqid": "10",
             "original": "notes",
@@ -253,8 +226,7 @@
 
         },
         {
-            "submissionid": "11",
-            "userid": "11",
+            "userid": "Leyla P Rockbrand",
             "pmid": "31826279",
             "qidorsqid": "11",
             "original": "notes",
