@@ -1,133 +1,133 @@
 {
     "reading": [
         {
-            "userid": "Bi-Ye Zhou",
+            "userid": "01",
             "pmid": "31859919",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Jing Li",
+            "userid": "02",
             "pmid": "32132346",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Ming-Gao Li",
+            "userid": "03",
             "pmid": "32384427",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Chang-Pei Xiang",
+            "userid": "04",
             "pmid": "32294740",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Hai-Wen Sun",
+            "userid": "05",
             "pmid": "31826279",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Jia-Xing Zhou",
+            "userid": "06",
             "pmid": "31834639",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Lei Han",
+            "userid": "07",
             "pmid": "32118714",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Alan Garcia",
+            "userid": "08",
             "pmid": "32151750",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Manlio F Marquez",
+            "userid": "09",
             "pmid": "32209833",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Emilse F Fierro",
+            "userid": "10",
             "pmid": "31821912",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Jessica J Baez",
+            "userid": "11",
             "pmid": "31834639",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Leyla P Rockbrand",
+            "userid": "12",
             "pmid": "32118714",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Jorge Gomez-Flores",
+            "userid": "13",
             "pmid": "32151750",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Chang-Pei Xiang",
+            "userid": "14",
             "pmid": "32209833",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Rui Zhou",
+            "userid": "15",
             "pmid": "31821912",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Yi Zhang",
+            "userid": "16",
             "pmid": "31859919",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Jing-Jing Zhang",
+            "userid": "17",
             "pmid": "32132346",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Hong-Jun Yang",
+            "userid": "18",
             "pmid": "32384427",
             "notes": "notes",
             "finished": "finished",
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Alan Garcia",
+            "userid": "19",
             "pmid": "32294740",
             "notes": "notes",
             "finished": "finished",
@@ -136,7 +136,7 @@
     ],
     "submission": [
         {
-            "userid": "Bi-Ye Zhou",
+            "userid": "01",
             "pmid": "31826279",
             "qidorsqid": "02",
             "original": "notes",
@@ -145,7 +145,7 @@
 
         },
         {
-            "userid": "Jing Li",
+            "userid": "02",
             "pmid": "31834639",
             "qidorsqid": "03",
             "original": "notes",
@@ -154,7 +154,7 @@
 
         },
         {
-            "userid": "Ming-Gao Li",
+            "userid": "03",
             "pmid": "32118714",
             "qidorsqid": "03",
             "original": "notes",
@@ -163,7 +163,7 @@
 
         },
         {
-            "userid": "Hai-Wen Sun",
+            "userid": "04",
             "pmid": "32151750",
             "qidorsqid": "04",
             "original": "notes",
@@ -171,7 +171,7 @@
             "timestamp": "2022-01-19 03:14:07"
         },
         {
-            "userid": "Jia-Xing Zhou",
+            "userid": "05",
             "pmid": "32209833",
             "qidorsqid": "05",
             "original": "notes",
@@ -180,7 +180,7 @@
 
         },
         {
-            "userid": "Lei Han",
+            "userid": "06",
             "pmid": "31821912",
             "qidorsqid": "06",
             "original": "notes",
@@ -189,7 +189,7 @@
 
         },
         {
-            "userid": "Alan Garcia",
+            "userid": "07",
             "pmid": "31859919",
             "qidorsqid": "07",
             "original": "notes",
@@ -198,7 +198,7 @@
 
         },
         {
-            "userid": "Manlio F Marquez",
+            "userid": "08",
             "pmid": "32132346",
             "qidorsqid": "08",
             "original": "notes",
@@ -207,7 +207,7 @@
 
         },
         {
-            "userid": "Emilse F Fierro",
+            "userid": "09",
             "pmid": "32384427",
             "qidorsqid": "09",
             "original": "notes",
@@ -216,7 +216,7 @@
 
         },
         {
-            "userid": "Jessica J Baez",
+            "userid": "10",
             "pmid": "32294740",
             "qidorsqid": "10",
             "original": "notes",
@@ -225,7 +225,7 @@
 
         },
         {
-            "userid": "Leyla P Rockbrand",
+            "userid": "11",
             "pmid": "31826279",
             "qidorsqid": "11",
             "original": "notes",
