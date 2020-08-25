@@ -1,6 +1,7 @@
 {
     "reading": [
         {
+            "readingid": "01",
             "userid": "01",
             "pmid": "31859919",
             "notes": "notes",
@@ -8,6 +9,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "02",
             "userid": "02",
             "pmid": "32132346",
             "notes": "notes",
@@ -15,6 +17,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "03",
             "userid": "03",
             "pmid": "32384427",
             "notes": "notes",
@@ -22,6 +25,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "04",
             "userid": "04",
             "pmid": "32294740",
             "notes": "notes",
@@ -29,6 +33,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "05",
             "userid": "05",
             "pmid": "31826279",
             "notes": "notes",
@@ -36,6 +41,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "06",
             "userid": "06",
             "pmid": "31834639",
             "notes": "notes",
@@ -43,6 +49,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "07",
             "userid": "07",
             "pmid": "32118714",
             "notes": "notes",
@@ -50,6 +57,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "08",
             "userid": "08",
             "pmid": "32151750",
             "notes": "notes",
@@ -57,6 +65,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "09",
             "userid": "09",
             "pmid": "32209833",
             "notes": "notes",
@@ -64,6 +73,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "10",
             "userid": "10",
             "pmid": "31821912",
             "notes": "notes",
@@ -71,6 +81,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "11",
             "userid": "11",
             "pmid": "31834639",
             "notes": "notes",
@@ -78,6 +89,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "12",
             "userid": "12",
             "pmid": "32118714",
             "notes": "notes",
@@ -85,6 +97,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "13",
             "userid": "13",
             "pmid": "32151750",
             "notes": "notes",
@@ -92,6 +105,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "14",
             "userid": "14",
             "pmid": "32209833",
             "notes": "notes",
@@ -99,6 +113,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "15",
             "userid": "15",
             "pmid": "31821912",
             "notes": "notes",
@@ -106,6 +121,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "16",
             "userid": "16",
             "pmid": "31859919",
             "notes": "notes",
@@ -113,6 +129,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "17",
             "userid": "17",
             "pmid": "32132346",
             "notes": "notes",
@@ -120,6 +137,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "18",
             "userid": "18",
             "pmid": "32384427",
             "notes": "notes",
@@ -127,6 +145,7 @@
             "finishedtimestamp": "2022-01-19 03:14:07"
         },
         {
+            "readingid": "19",
             "userid": "19",
             "pmid": "32294740",
             "notes": "notes",
@@ -136,6 +155,7 @@
     ],
     "submission": [
         {
+            "submissionid": "01",
             "userid": "01",
             "pmid": "31826279",
             "qidorsqid": "02",
@@ -145,6 +165,7 @@
 
         },
         {
+            "submissionid": "02",
             "userid": "02",
             "pmid": "31834639",
             "qidorsqid": "03",
@@ -154,6 +175,7 @@
 
         },
         {
+            "submissionid": "03",
             "userid": "03",
             "pmid": "32118714",
             "qidorsqid": "03",
@@ -163,6 +185,7 @@
 
         },
         {
+            "submissionid": "04",
             "userid": "04",
             "pmid": "32151750",
             "qidorsqid": "04",
@@ -171,6 +194,7 @@
             "timestamp": "2022-01-19 03:14:07"
         },
         {
+            "submissionid": "05",
             "userid": "05",
             "pmid": "32209833",
             "qidorsqid": "05",
@@ -180,6 +204,7 @@
 
         },
         {
+            "submissionid": "06",
             "userid": "06",
             "pmid": "31821912",
             "qidorsqid": "06",
@@ -189,6 +214,7 @@
 
         },
         {
+            "submissionid": "07",
             "userid": "07",
             "pmid": "31859919",
             "qidorsqid": "07",
@@ -198,6 +224,7 @@
 
         },
         {
+            "submissionid": "08",
             "userid": "08",
             "pmid": "32132346",
             "qidorsqid": "08",
@@ -207,6 +234,7 @@
 
         },
         {
+            "submissionid": "09",
             "userid": "09",
             "pmid": "32384427",
             "qidorsqid": "09",
@@ -216,6 +244,7 @@
 
         },
         {
+            "submissionid": "10",
             "userid": "10",
             "pmid": "32294740",
             "qidorsqid": "10",
@@ -225,6 +254,7 @@
 
         },
         {
+            "submissionid": "11",
             "userid": "11",
             "pmid": "31826279",
             "qidorsqid": "11",
